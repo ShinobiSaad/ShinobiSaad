@@ -16,6 +16,7 @@ And finally on my journey to this vast tech industry that the world has to offer
 </br>
 
 ### My tools and Languages
+</br>
 [<img align="left" alt="VSCode" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />](https://code.visualstudio.com/)
 
 [<img align="left" alt="JavaScript" width="50px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />](https://www.quora.com/Whats-the-official-website-of-JavaScript)
