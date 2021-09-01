@@ -9,5 +9,5 @@ And finally on my journey to this vast tech industry that the world has to offer
 </br>
 
 ## You can find me here
-[<img align="left" alt="LinkedIn" width="20px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />] [linkedin.com/in/saad-ul-kabir]
+[<img align="left" alt="LinkedIn" width="20px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />](https://www.linkedin.com/in/saad-ul-kabir)
 
