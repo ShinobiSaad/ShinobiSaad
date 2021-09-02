@@ -33,8 +33,8 @@ And finally on my journey to this vast tech industry that the world has to offer
 <br />
 
 <div>
-<a href="https://github.com/ShinobiSaad/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinobiSaad&layout=compact&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShinobiSaad&show_icons=true&theme=radical" />
+<a href="https://github.com/ShinobiSaad">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShinobiSaad&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinobiSaad&layout=compact&show_icons=true&theme=dracula" />
 </a>
 </div>
