@@ -28,7 +28,9 @@ And finally on my journey to this vast tech industry that the world has to offer
 [<img align="left" alt="MongoDB" width="40px" src="https://broadwayinfosys.com/uploads/courses/mongodb.png" />](https://www.mongodb.com/)
 
 [<img align="left" alt="GIT" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />](https://git-scm.com/)
-
+<br />
+<br />
+<br />
 
 <div>
 <a href="https://github.com/ShinobiSaad/github-readme-stats">
