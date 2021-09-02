@@ -26,7 +26,7 @@
 
 [<img align="left" alt="CSS" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />](https://en.wikipedia.org/wiki/CSS)
 
-[<img align="left" alt="MongoDB" width="43px" src="https://broadwayinfosys.com/uploads/courses/mongodb.png" />](https://www.mongodb.com/)
+[<img align="left" alt="MongoDB" width="44px" src="https://broadwayinfosys.com/uploads/courses/mongodb.png" />](https://www.mongodb.com/)
 
 [<img align="left" alt="GIT" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />](https://git-scm.com/)
 <br />
