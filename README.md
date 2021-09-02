@@ -30,10 +30,10 @@ And finally on my journey to this vast tech industry that the world has to offer
 [<img align="left" alt="GIT" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />](https://git-scm.com/)
 <br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/ShinobiSaad/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ShinobiSaad&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/ShinobiSaad/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ShinobiSaad&repo=convoychat" />
 </a>
 
