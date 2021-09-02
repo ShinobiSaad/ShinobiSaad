@@ -31,7 +31,7 @@ And finally on my journey to this vast tech industry that the world has to offer
 <br />
 
 <a href="https://github.com/ShinobiSaad/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ShinobiSaad&repo=github-readme-stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinobiSaad&layout=compact" />
 </a>
 <a href="https://github.com/ShinobiSaad/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ShinobiSaad&repo=convoychat" />
