@@ -24,7 +24,7 @@
 
 [<img align="left" alt="HTML" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" />](https://en.wikipedia.org/wiki/HTML#:~:text=The%20HyperText%20Markup%20Language%2C%20or,scripting%20languages%20such%20as%20JavaScript.&text=HTML%20elements%20are%20delineated%20by%20tags%2C%20written%20using%20angle%20brackets.)
 
-[<img align="left" alt="CSS" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />](https://en.wikipedia.org/wiki/CSS)
+[<img align="left" alt="CSS" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />](https://en.wikipedia.org/wiki/CSS)
 
 [<img align="left" alt="MongoDB" width="40px" src="https://broadwayinfosys.com/uploads/courses/mongodb.png" />](https://www.mongodb.com/)
 
