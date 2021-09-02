@@ -30,8 +30,9 @@ And finally on my journey to this vast tech industry that the world has to offer
 [<img align="left" alt="GIT" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />](https://git-scm.com/)
 <br />
 
+<div>
 <a href="https://github.com/ShinobiSaad/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShinobiSaad&layout=compact&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShinobiSaad&show_icons=true&theme=radical" />
 </a>
-
+</div>
