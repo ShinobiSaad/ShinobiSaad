@@ -24,6 +24,8 @@
 
 [<img align="left" alt="React" width="40px" src="https://sujanbyanjankar.com.np/wp-content/uploads/2019/01/React.js_logo-512.png" />](https://reactjs.org/)
 
+[<img align="left" alt="Python" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" />](https://www.python.org/)
+
 [<img align="left" alt="NodeJs" width="40px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_f0b606abb6d19089febc9faeeba5bc05/nodejs-development-services.png" />](https://nodejs.org/)
 
 [<img align="left" alt="HTML" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png" />](https://en.wikipedia.org/wiki/HTML#:~:text=The%20HyperText%20Markup%20Language%2C%20or,scripting%20languages%20such%20as%20JavaScript.&text=HTML%20elements%20are%20delineated%20by%20tags%2C%20written%20using%20angle%20brackets.)
