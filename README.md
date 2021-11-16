@@ -20,7 +20,7 @@
 
 [<img align="left" alt="Django" width="43px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" />](https://www.djangoproject.com/)
 
-[<img align="left" alt="VueJS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" />](https://vuejs.org/)
+[<img align="left" alt="VueJS" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" />](https://vuejs.org/)
 
 [<img align="left" alt="React" width="40px" src="https://sujanbyanjankar.com.np/wp-content/uploads/2019/01/React.js_logo-512.png" />](https://reactjs.org/)
 
