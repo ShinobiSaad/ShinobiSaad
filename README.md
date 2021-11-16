@@ -18,7 +18,7 @@
 
 [<img align="left" alt="JavaScript" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />](https://www.quora.com/Whats-the-official-website-of-JavaScript)
 
-[<img align="left" alt="Django" width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" />](https://www.djangoproject.com/)
+[<img align="left" alt="Django" width="42px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" />](https://www.djangoproject.com/)
 
 [<img align="left" alt="React" width="40px" src="https://sujanbyanjankar.com.np/wp-content/uploads/2019/01/React.js_logo-512.png" />](https://reactjs.org/)
 
