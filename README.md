@@ -2,7 +2,7 @@
 
 ### Let me give you a little tour about myself
 🎓 I've graduated from Brac University with the Bachelors degree of Computer Science </br>
-👨‍💻 Currently working at TechTrioZ Solutions as a Junior Software Engineer </br>
+👨‍💻 Currently working Software Engineer </br>
 🎮 My hobby is hanging out with friends, travelling, watching anime or series and video games </br>
 🌐 And finally on my journey to this vast tech industry that the world has to offer.
 <br />
