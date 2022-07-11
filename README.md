@@ -12,9 +12,13 @@
 [<img align="left" alt="Twitter" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/twitter-1865886-1581902.png" />](https://twitter.com/ShinobiSaad)
 <br />
 <br />
-### My tools and Languages
+### My Tools
 
 [<img align="left" alt="VSCode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />](https://code.visualstudio.com/)
+
+### My Languages
+
+[<img align="left" alt="TypeScript" width="40px" src="[https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png)" />]([https://www.quora.com/Whats-the-official-website-of-JavaScript](https://www.typescriptlang.org/))
 
 [<img align="left" alt="JavaScript" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" />](https://www.quora.com/Whats-the-official-website-of-JavaScript)
 
