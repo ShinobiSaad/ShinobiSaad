@@ -15,7 +15,7 @@
 ### My Tools
 
 [<img align="left" alt="VSCode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />](https://code.visualstudio.com/)
-
+<br />
 ### My Languages
 
 [<img align="left" alt="TypeScript" width="40px" src="[https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png)" />]([https://www.quora.com/Whats-the-official-website-of-JavaScript](https://www.typescriptlang.org/))
