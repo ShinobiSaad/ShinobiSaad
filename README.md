@@ -12,11 +12,3 @@
 [<img align="left" alt="Twitter" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/twitter-1865886-1581902.png" />](https://twitter.com/ShinobiSaad)
 <br />
 <br />
-### My Tools
-
-[<img align="left" alt="VSCode" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />](https://code.visualstudio.com/)
-
-[<img align="left" alt="Postman" width="40px" src="https://nordicapis.com/wp-content/uploads/pm-logo-vert.png" />](https://code.visualstudio.com/)
-
-<br />
-<br />
